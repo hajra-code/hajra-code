@@ -10,8 +10,8 @@ I am a dedicated Computer Science student with a strong passion for solving real
 
 *   📍 **Location:** Rawalpindi, Pakistan
 *   📧 **Email:** hajrabashir00@gmail.com
-*   🔗 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/hajra-bashir)
-
+*   🔗 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/hajra-bashir)
+*   🔗 **Portfolio:** [portfolio.com](https://hajra-code.github.io/)
 ---
 
 ## 🛠 Technical Toolkit
