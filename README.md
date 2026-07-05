@@ -1,57 +1,118 @@
-# Hajra Bashir | Computer Science Undergraduate
-### Cybersecurity | Web Development | Artificial Intelligence
+<h1 align="center">Hi 👋, I'm Hajra Bashir</h1>
 
-Professional portfolio and resume repository. Currently pursuing a Bachelors of Science in Computer Science at **Fatima Jinnah Women University** (2024 - 2028).
+<h3 align="center">
+Computer Science Undergraduate | Web Development | AI | Cybersecurity
+</h3>
 
----
-
-## 🚀 About Me
-I am a dedicated Computer Science student with a strong passion for solving real-world problems through technology. My focus lies in **Cybersecurity**, **Web Development**, and **AI**. I am committed to gaining practical experience and providing valuable technical services to global organizations.
-
-*   📍 **Location:** Rawalpindi, Pakistan
-*   📧 **Email:** hajrabashir00@gmail.com
-*   🔗 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/hajra-bashir)
-*   🔗 **Portfolio:** [portfolio.com](https://hajra-code.github.io/)
----
-
-## 🛠 Technical Toolkit
-*   **Languages:** C/C++, Java, Python, Assembly (Emu8086)
-*   **Web & Content:** WordPress Fundamentals, SEO Content Writing
-*   **Tools & Platforms:** MS Azure, VirtualBox, VS Code, Dev-C++, Qt Creator, Canva
-*   **Concepts:** AI & Cybersecurity fundamentals, Networking
+<p align="center">
+I enjoy building software, exploring new technologies, and learning through real-world projects.
+Currently improving my skills in Web Development, Artificial Intelligence, Cybersecurity, and Programming.
+</p>
 
 ---
 
-## 📂 Key Projects
-### 🖥️ K-D Tree Visualization Tool
-Developed an interactive visualization tool using **Qt Creator** to demonstrate the complex working of K-D Trees.
+## 👩‍💻 About Me
 
-### 🔒 Bank Vault & Elevator Safety Systems
-Designed and implemented low-level security and safety systems using **Assembly Language** in **Emu8086**.
-
-### 🌐 Virtual Network Simulation
-Created a virtual network of computers using **VirtualBox** with Windows OS, simulating real-world network environments.
-
----
-
-## 📜 Certifications & Honors
-*   **Introduction to Cybersecurity** – Cisco Networking Academy
-*   **AI for Everyone** – Coursera
-*   **Build Products & Launch Startups with AI** – DataCrumbs
-*   **Honhaar Scholarship Award** (2024)
-*   **CM Laptop Award** (2025)
+- 🎓 BS Computer Science Student (2024–2028)
+- 💻 Programming in **C++, Java & Python**
+- 🌐 Learning **Full Stack Web Development**
+- 🤖 Interested in **Artificial Intelligence**
+- 🔐 Exploring **Cybersecurity**
+- 📚 Always learning new technologies
+- 🤝 Open to internships, collaborations and open-source projects
 
 ---
 
-## 🤝 Experience & Volunteering
-*   **Social Media Marketing Intern** – International MUN (Remote)
-*   **Student Volunteer** – Manzar-e-Aam Trust & Sam Life Savers
-*   **Community Volunteer** – Step Ahead Welfare Society
+## 🚀 Technical Skills
+
+### Languages
+- C++
+- Java
+- Python
+
+### Web
+- HTML
+- CSS
+- WordPress
+
+### Technologies
+- VirtualBox
+- Microsoft Azure
+- MS Office
+- Canva
+- VS Code
+- Dev-C++
+- Emu8086
+
+### Areas of Interest
+- Web Development
+- Artificial Intelligence
+- Cybersecurity
+- UI/UX Design
+- Full Stack Development
 
 ---
 
-## 🌟 Soft Skills
-Team Collaboration | Problem Solving | Event Coordination
+## 📂 Featured Projects
+
+### 🌳 K-D Tree Visualizer
+Interactive visualization of K-D Trees developed using Qt Creator.
+
+### 🏦 Bank Vault Security System
+Assembly Language project implementing a secure bank vault system using Emu8086.
+
+### 🛗 Elevator Safety System
+Assembly Language simulation demonstrating elevator safety mechanisms.
+
+### 💻 Virtual Network Lab
+Configured multiple Windows virtual machines in VirtualBox to simulate a network environment.
+
+More projects →
+👉 https://github.com/hajra-code
 
 ---
-*Feel free to reach out for collaborations or opportunities!*
+
+## 🏆 Certifications
+
+- AI for Everyone — DeepLearning.AI
+- Introduction to Cybersecurity — Cisco Networking Academy
+- Build Products & Launch Startups with AI — DataCrumbs
+- Web Development — Women Fortune Tech
+- UI/UX Design — Women Fortune Tech
+- SEO Content Writing — NextGen Digital University
+- From Classroom to Career — Youth Academic Council
+
+---
+
+## 💼 Experience
+
+**WordPress Development Intern**
+Internee.pk
+
+**Social Media Marketing Intern**
+International MUN
+
+**Chapter Head**
+Sam Life Savers (FJWU Chapter)
+
+**Community Volunteer**
+Step Ahead Welfare Society
+
+---
+
+## 📫 Connect With Me
+
+📧 hajrabashir00@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/hajra-bashir
+
+🌐 Portfolio
+https://hajra-code.github.io
+
+🐙 GitHub
+https://github.com/hajra-code
+
+---
+
+⭐ Thanks for visiting my profile!
