@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hajra Bashir</h1>
-
 <h3 align="center">
 Computer Science Undergraduate | Web Development | AI | Cybersecurity
 </h3>
-
 <p align="center">
 I enjoy building software, exploring new technologies, and learning through real-world projects.
 Currently improving my skills in Web Development, Artificial Intelligence, Cybersecurity, and Programming.
@@ -12,7 +10,6 @@ Currently improving my skills in Web Development, Artificial Intelligence, Cyber
 ---
 
 ## 👩‍💻 About Me
-
 - 🎓 BS Computer Science Student (2024–2028)
 - 💻 Programming in **C++, Java & Python**
 - 🌐 Learning **Full Stack Web Development**
@@ -73,7 +70,6 @@ More projects →
 ---
 
 ## 🏆 Certifications
-
 - AI for Everyone — DeepLearning.AI
 - Introduction to Cybersecurity — Cisco Networking Academy
 - Build Products & Launch Startups with AI — DataCrumbs
@@ -87,21 +83,28 @@ More projects →
 ## 💼 Experience
 
 **WordPress Development Intern**
-Internee.pk
+Internee.pk · Apr 2026 – Jun 2026
+
+**Chapter Head (FJWU Chapter)**
+Sam Life Savers · Feb 2026 – Present
 
 **Social Media Marketing Intern**
-International MUN
-
-**Chapter Head**
-Sam Life Savers (FJWU Chapter)
+International MUN · Feb 2026 – Mar 2026
 
 **Community Volunteer**
-Step Ahead Welfare Society
+Step Ahead Welfare Society · Dec 2025 – Jan 2026
+
+---
+
+## 🏅 Awards & Honors
+- Honhaar Scholarship Award (2024)
+- CM Laptop Award (2025)
+- Manzar-e-Aam Trust Volunteer Award (2026)
+- Sam Life Savers Volunteer Award (2026)
 
 ---
 
 ## 📫 Connect With Me
-
 📧 hajrabashir00@gmail.com
 
 💼 LinkedIn
