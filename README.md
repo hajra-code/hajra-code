@@ -116,7 +116,7 @@ More projects:
 
 ## 💼 Experience 
 
-**Brand Ambassador — DataCrumbs** _July 2026 – Present_ 
+**Brand Ambassador — DataCrumbs** _July 2026 – August 2026_ 
 
 **Web Development Intern — SoftGrowTech** _July 2026 – August 2026_ 
 
